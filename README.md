@@ -1,1 +1,1 @@
-# Khalid.Helmy
+The mission of  this repository  is to provide relevant, actionable advice on all things Microsoft, straight from the experts themselves including Office 365, Exchange, PowerShell, Azure, Teams, and more.  I am aiming to make my news, tips and tutorials simple and applicable, helping the community of IT professionals to optimize their Microsoft experience.
